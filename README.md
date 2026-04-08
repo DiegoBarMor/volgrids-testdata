@@ -10,17 +10,13 @@ cd volgrids
 
 2) Clone this repo.
 ```bash
-git clone https://github.com/DiegoBarMor/volgrids-testdata testdata
-rm -rf testdata/.git*
+git clone --depth 1 https://github.com/DiegoBarMor/volgrids-testdata testdata
+rm -rf testdata/.git* # (optional)
 ```
 
-3) Generate the testdata for volgrids.
+3) The tests can now be run. The first time `tests/run.sh` is executed, several test data files will be automatically generated.
 ```bash
 # pip install -r environment/requirements.txt
-tests/_gen_input.sh
-```
-
-4) The tests can now be executed.
-```bash
 tests/run.sh
+tests/cleanup.sh # (optional)
 ```

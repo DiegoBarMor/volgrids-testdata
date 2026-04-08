@@ -1,2 +1,7 @@
 desktop.ini
 .vscode/
+
+env/
+smiffer/
+veins/
+vgtools/
