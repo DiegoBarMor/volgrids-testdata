@@ -2,6 +2,15 @@ desktop.ini
 .vscode/
 
 env/
-smiffer/
+smiffer/apbs/
+smiffer/toy_systems/
+smiffer/pocket_sphere/
+smiffer/whole/
+smiffer/trajs/
+smiffer/ligands/
+smiffer/cavities/
 veins/
-vgtools/
+vgtools/converting/
+vgtools/packing/
+vgtools/unpacking/
+vgtools/fix_cmap/
