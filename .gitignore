@@ -7,8 +7,10 @@ smiffer/apbs/
 smiffer/toy_systems/*.cmap
 smiffer/pocket_sphere/
 smiffer/whole/
+smiffer/whole-simple_hbonds/
 smiffer/trajs/few_frames/*.cmap
 smiffer/trajs/few_resids/*.cmap
+smiffer/trajs/small_rna/*.cmap
 smiffer/ligands/all_interactions/*.cmap
 smiffer/ligands/mid_size/*.cmap
 smiffer/ligands/nr3_case/*.cmap
