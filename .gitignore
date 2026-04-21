@@ -4,16 +4,13 @@ desktop.ini
 env/
 
 smiffer/apbs/
+smiffer/interfaces/**/*.cmap
 smiffer/toy_systems/*.cmap
 smiffer/pocket_sphere/
 smiffer/whole/
-smiffer/whole-simple_hbonds/
-smiffer/trajs/few_frames/*.cmap
-smiffer/trajs/few_resids/*.cmap
-smiffer/trajs/small_rna/*.cmap
-smiffer/ligands/all_interactions/*.cmap
-smiffer/ligands/mid_size/*.cmap
-smiffer/ligands/nr3_case/*.cmap
+smiffer/whole-hbond_details/
+smiffer/trajs/**/*.cmap
+smiffer/ligands/**/*.cmap
 smiffer/cavities/
 
 veins/
@@ -22,3 +19,4 @@ vgtools/converting/
 vgtools/packing/
 vgtools/unpacking/
 vgtools/fix_cmap/
+vgtools/operations/
