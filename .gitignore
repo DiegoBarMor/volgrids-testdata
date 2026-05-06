@@ -4,14 +4,16 @@ desktop.ini
 env/
 
 smiffer/apbs/
-smiffer/interfaces/**/*.cmap
 smiffer/toy_systems/*.cmap
 smiffer/pocket_sphere/
 smiffer/whole/
 smiffer/whole-hbond_details/
 smiffer/trajs/**/*.cmap
 smiffer/ligands/**/*.cmap
+smiffer/interfaces/**/*.cmap
 smiffer/cavities/
+
+smutils/hist/
 
 veins/
 
