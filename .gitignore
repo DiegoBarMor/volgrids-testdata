@@ -5,13 +5,13 @@ _tmp/
 env/
 
 smiffer/apbs/
-smiffer/toy_systems/*.cmap
+smiffer/toy_systems/*.mrc
 smiffer/pocket_sphere/
 smiffer/whole/
 smiffer/whole-hbond_details/
 smiffer/trajs/**/*.cmap
-smiffer/ligands/**/*.cmap
-smiffer/interfaces/**/*.cmap
+smiffer/ligands/**/*.mrc
+smiffer/interfaces/**/*.mrc
 smiffer/cavities/
 
 veins/
